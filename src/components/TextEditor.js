@@ -112,7 +112,7 @@ export default function TextEditor() {
   }, [socket, quill]);
 
   useEffect(() => {
-    const link = "http://54.180.140.209/";
+    const link = "http://54.180.156.178";
     // const link =
     //   process.env.NODE_ENV === "development"
     //     ? "http://localhost:3001"
